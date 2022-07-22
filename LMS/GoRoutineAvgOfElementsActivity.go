@@ -1,4 +1,3 @@
-// Shelby Simpson
 // Go Routines to take average of 5 elements each
 package main
 
