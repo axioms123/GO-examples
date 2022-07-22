@@ -1,4 +1,3 @@
-// Shelby Simpson
 // Array Practice 2 Reverse Numbers
 package main
 
