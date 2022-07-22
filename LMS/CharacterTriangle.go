@@ -1,4 +1,3 @@
-// Shelby Simpson
 // Triangle of Characters with Loops
 package main
 
