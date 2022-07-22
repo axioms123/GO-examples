@@ -1,4 +1,3 @@
-// Shelby Simpson 6/30/22
 // Coffee Shop Assessment
 package main
 
