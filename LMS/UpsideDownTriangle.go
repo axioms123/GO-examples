@@ -1,4 +1,3 @@
-// Shelby Simpson
 // Upside Down Triangle with Loops
 package main
 
