@@ -1,4 +1,3 @@
-// Shelby Simpson
 // Converting Centimeters to Inches and Feet
 package main
 
